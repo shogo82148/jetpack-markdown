@@ -12,6 +12,8 @@ Write in Markdown, publish in HTML.
 == Description ==
 
 Just the [Markdown](http://jetpack.me/support/markdown/) module from [Jetpack](http://wordpress.org/plugins/jetpack/).
+This is a fork of [jetpack-markdown](https://plugins.trac.wordpress.org/browser/jetpack-markdown?order=name).
+The original plugin is no longer maintained, so I forked it.
 
 All credits go to [Jetpack developers](https://jetpack.com/about/). Just saved you the trouble of taking [Markdown](http://jetpack.me/support/markdown/) module out of Jetpack and making it into an independent plugin.
 
