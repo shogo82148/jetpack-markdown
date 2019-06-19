@@ -1,5 +1,5 @@
 === JP Markdown ===
-Contributors: wpjp
+Contributors: wpjp, shogo82148
 Tags: jetpack, markdown, posts, post, comments, md
 Requires at least: 3.5
 Tested up to: 4.5
