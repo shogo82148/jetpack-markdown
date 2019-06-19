@@ -3,7 +3,7 @@ Contributors: wpjp, shogo82148
 Tags: jetpack, markdown, posts, post, comments, md
 Requires at least: 3.5
 Tested up to: 4.5
-Stable tag: 3.9.6
+Stable tag: 3.10.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,10 @@ All credits go to [Jetpack developers](https://jetpack.com/about/). Just saved y
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
 == Changelog ==
+
+= 3.10.0 =
+
+* First forked version by @shogo82148
 
 = 3.9.6 =
 
