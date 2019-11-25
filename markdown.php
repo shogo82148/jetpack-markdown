@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: JP Markdown
- * Plugin URI: http://wordpress.org/plugins/jetpack-markdown/
+ * Plugin URI: https://github.com/shogo82148/jetpack-markdown
  * Description: Write posts or pages in plain-text Markdown syntax.
  * Author: JP
  * Version: 3.10.1
