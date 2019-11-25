@@ -1,0 +1,27 @@
+# Japanese translations for JP Markdown
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JP Markdown\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-25 15:56+0900\n"
+"PO-Revision-Date: 2019-11-25 16:04+0900\n"
+"Last-Translator: Shogo Ichinose <shogo82148@gmail.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: markdown.php:48
+msgid "Settings"
+msgstr "設定"
+
+#: markdown/easy-markdown.php:250 markdown/easy-markdown.php:252
+msgid "Markdown"
+msgstr "Markdown"
+
+#: markdown/easy-markdown.php:644
+msgid "Markdown content"
+msgstr "Markdownコンテンツ"
