@@ -1,4 +1,4 @@
-=== JP Markdown ===
+---
 Contributors: wpjp, shogo82148
 Tags: jetpack, markdown, posts, post, comments, md
 Requires at least: 3.5
@@ -6,10 +6,13 @@ Tested up to: 4.5
 Stable tag: 3.10.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+---
+
+# JP Markdown
 
 Write in Markdown, publish in HTML.
 
-== Description ==
+## Description
 
 Just the [Markdown](http://jetpack.me/support/markdown/) module from [Jetpack](http://wordpress.org/plugins/jetpack/).
 This is a fork of [jetpack-markdown](https://plugins.trac.wordpress.org/browser/jetpack-markdown?order=name).
@@ -17,13 +20,13 @@ The original plugin is no longer maintained, so I forked it.
 
 All credits go to [Jetpack developers](https://jetpack.com/about/). Just saved you the trouble of taking [Markdown](http://jetpack.me/support/markdown/) module out of Jetpack and making it into an independent plugin.
 
-= But.. Why? =
+### But.. Why?
 
 * Why not?
 * Privacy?
 * Boilerplate?
 
-= Similar Plugins =
+### Similar Plugins
 
 * [JP Sharing](http://wordpress.org/plugins/jetpack-sharing/) - Share content with Facebook, Twitter, and many more.
 * [JP Widget Visibility](http://wordpress.org/plugins/jetpack-widget-visibility/) - Control what pages your widgets appear on.
@@ -32,61 +35,59 @@ All credits go to [Jetpack developers](https://jetpack.com/about/). Just saved y
 * [JP Gravatar Hovercards](http://wordpress.org/plugins/jetpack-gravatar-hovercards/) - Show a pop-up business card of your users' gravatar profiles in comments.
 * [JP Omnisearch](http://wordpress.org/plugins/jetpack-omnisearch/) - A single search box, that lets you search many different things.
 
-== Changelog ==
+## Changelog
 
-= 3.10.1 =
+### 3.10.1
 
 * Fix Uncaught Error: Class 'Jetpack_Options' not found https://github.com/shogo82148/jetpack-markdown/pull/14
 
-= 3.10.0 =
+### 3.10.0
 
 * First forked version by @shogo82148
 
-= 3.9.6 =
+### 3.9.6
 
 * Enhancement: Removed deprecated markup from the output.
 * Enhancement: Added a filter to enable skipping processing of developer supplied patterns.
 * Bug Fix: Fixed a bug that would strip markdown when saving in "Quick Edit" mode.
 
-= 3.8 =
+### 3.8
 
 * Update to Jetpack 3.8
 
-= 3.6 =
+### 3.6
 
 * Update to Jetpack 3.6
 
-= 3.5.3 = 
+### 3.5.3
 
 * Update to Jetpack 3.5.3
 
-= 3.4.1 =
+### 3.4.1
 
 * Bug Fix: Re-run KSES after processing to account for syntax changes.
 
-= 3.2.1 =
+### 3.2.1
 
 * Update to Jetpack 3.2.1
 
-= 3.2 =
+### 3.2
 
 * Update to Jetpack 3.2
 
-= 3.1 =
+### 3.1
 
 * Update to Jetpack 3.1
 * Change plugin name to "JP Markdown" in response to Jetpack team request.
 
-= 3.0.1 =
+### 3.0.1
 
 * Bugfix: Ensure Markdown is kept when Bulk Editing posts
 
-= 2.9.3 =
+### 2.9.3
 
 * Update to Jetpack 2.9.3
 
-= 2.9 =
+### 2.9
 
 * Initial release
-
-== Upgrade Notice ==
